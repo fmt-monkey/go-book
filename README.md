@@ -8,3 +8,14 @@ Some basic Git commands are:
 git add
 git commit
 ```
+
+```go
+package main
+
+import "fmt"
+//import "errors"
+
+func main() {
+	fmt.Println("yes")
+}
+```
